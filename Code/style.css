@@ -1,0 +1,27 @@
+.flower-background {
+    background-image: url(../Images/intro_background.png);
+    border-radius: 10px;
+}
+.main-categories-archives {
+    background-image: url(../Images/sidebar_background.png);
+}
+.categories-archives {
+    background-image: url(../Images/sidebar_section_background.png);
+}
+.footer {
+    background-color: #222;
+    color: lightslategray;
+}
+#header {
+    color: white;
+}
+a {
+    color: #086e78;
+}
+a:hover {
+    color: blue;
+}
+.benjamin{
+    background-color: lightgray;
+    border-radius: 5px;
+}
